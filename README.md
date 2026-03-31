@@ -6,7 +6,7 @@ across 90 public universities in 6 Midwest states (2019–2024)**
 ---
 
 ## Live Dashboard
-[View Interactive Power BI Dashboard →](YOUR_POWER_BI_PUBLIC_URL_HERE)
+[View Interactive Power BI Dashboard →]https://app.powerbi.com/view?r=eyJrIjoiZmFjYjhkM2UtOWI2Ni00ZDhjLThkNWMtYjZmYWQ5MzI2OWRlIiwidCI6ImUwNWI2YjNmLTE5ODAtNGIyNC04NjM3LTU4MDc3MWY0NGRlZSIsImMiOjN9
 
 ---
 
