@@ -117,7 +117,7 @@ Wichita State University · MS Business Analytics (STEM) · Expected May 2026
 
 **After saving:**
 
-1. Replace `YOUR_POWER_BI_PUBLIC_URL_HERE` with your actual dashboard link
+1. Replace `https://app.powerbi.com/view?r=eyJrIjoiZmFjYjhkM2UtOWI2Ni00ZDhjLThkNWMtYjZmYWQ5MzI2OWRlIiwidCI6ImUwNWI2YjNmLTE5ODAtNGIyNC04NjM3LTU4MDc3MWY0NGRlZSIsImMiOjN9` 
 2. Save the file as `README.md` (not `.txt`)
 3. Run these three commands:
 ```
