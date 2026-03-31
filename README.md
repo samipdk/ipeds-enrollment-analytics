@@ -108,7 +108,6 @@ student success — and how Midwest universities can benchmark their performance
 ## Author
 
 **Samip Thakuri**  
-Graduate Research Assistant — Center for Economic Development and Business Research (CEDBR)  
 Wichita State University · MS Business Analytics (STEM) · Expected May 2026  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samipkhthak-blue)](https://www.linkedin.com/in/samipkhthak/)
