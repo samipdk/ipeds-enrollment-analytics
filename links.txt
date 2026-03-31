@@ -1,0 +1,5 @@
+Embed Code for email:https://app.powerbi.com/view?r=eyJrIjoiZmFjYjhkM2UtOWI2Ni00ZDhjLThkNWMtYjZmYWQ5MzI2OWRlIiwidCI6ImUwNWI2YjNmLTE5ODAtNGIyNC04NjM3LTU4MDc3MWY0NGRlZSIsImMiOjN9
+
+Embed Code for html:
+
+<iframe title="IPEDS Analytics Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZmFjYjhkM2UtOWI2Ni00ZDhjLThkNWMtYjZmYWQ5MzI2OWRlIiwidCI6ImUwNWI2YjNmLTE5ODAtNGIyNC04NjM3LTU4MDc3MWY0NGRlZSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>

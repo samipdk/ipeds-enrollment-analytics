@@ -1,0 +1,18 @@
+# Raw data — large files
+Data/raw/
+Data/processed/
+Data/ipeds.db
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Power BI
+*.pbix
+
+# System
+.DS_Store
+Thumbs.db
+*.xlsx
