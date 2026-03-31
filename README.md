@@ -112,15 +112,3 @@ Wichita State University · MS Business Analytics (STEM) · Expected May 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samipkhthak-blue)](https://www.linkedin.com/in/samipkhthak/)
 ```
-
----
-
-**After saving:**
-
-1. Replace `https://app.powerbi.com/view?r=eyJrIjoiZmFjYjhkM2UtOWI2Ni00ZDhjLThkNWMtYjZmYWQ5MzI2OWRlIiwidCI6ImUwNWI2YjNmLTE5ODAtNGIyNC04NjM3LTU4MDc3MWY0NGRlZSIsImMiOjN9` 
-2. Save the file as `README.md` (not `.txt`)
-3. Run these three commands:
-```
-git add .
-git commit -m "Add professional README with dashboard link and project documentation"
-git push
